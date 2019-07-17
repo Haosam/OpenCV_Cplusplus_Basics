@@ -1,6 +1,6 @@
 # Explanation of the codes
 
-## OpenCV_Basics.cpp - Opening an image in OpenCV
+## OpenCV_Basics1.cpp - Opening an image in OpenCV
 
 ### This code is about how to open an image in OpenCV
 
@@ -85,7 +85,7 @@ destroyWindow(windowName); //destroy the created window
 ```
 This function will destroy the window created to de-allocate anything in the memory usage
 
-### Create a Blank Image in OpenCV
+## OpenCV_Basics1_fullcolor.cpp - Create a Blank Image in OpenCV
 In the other code, OpenCV_Basics1_FullColor, it will just create a window with a singular color  
 The only difference in this code is this line
 ```
